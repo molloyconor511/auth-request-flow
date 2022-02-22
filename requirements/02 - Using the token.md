@@ -8,3 +8,6 @@ Implement the empty `/profile` controller function in `src/router.js` by complet
     - Use console logs to inspect the `req` object to figure out how to find this.
 2. Use the `jsonwebtoken` library to verify that the token is valid.
 3. Respond with the mock user's profile if the token is valid, or a failure message if it isn't.
+
+//	"data": "eyJhbGciOiJIUzI1NiJ9.YXV0aGd1eQ.aYOCnLkqaO_bFY-x-58req3zfRcGvSZDiRFpFm72E6E"
+
